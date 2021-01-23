@@ -1,0 +1,3 @@
+﻿  PINValidation.cpp
+C:\Users\JP\source\repos\PINValidation\PINValidation\PINValidation.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PINValidation.vcxproj -> C:\Users\JP\source\repos\PINValidation\Debug\PINValidation.exe
